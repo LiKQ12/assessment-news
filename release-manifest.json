@@ -1,0 +1,205 @@
+{
+  "version": "20261030-approved-revision-3002b",
+  "repository": "LiKQ12/assessment-news",
+  "site_url": "https://likq12.github.io/assessment-news/",
+  "runtime_files": {
+    "app.js": {
+      "bytes": 48179,
+      "sha256": "384165ddcc50098be5b9a9aaef21c819a57de0308a67a094c89ce89f734e3ff2"
+    },
+    "approved-copy.js": {
+      "bytes": 14310,
+      "sha256": "bc6e40416b16ebb11008edc678612df531d65e51c76610d568b917d8da4054ac"
+    },
+    "chart-prototypes.js": {
+      "bytes": 394473,
+      "sha256": "f88b5ebccf5be1ec1a908ab976b0620e37f9c690bb5043f92ed876e762d1a734"
+    },
+    "data.js": {
+      "bytes": 527749,
+      "sha256": "aac42799b0983073fc1a87865551163dbaf6fde7b40d458cb2cbb4fc3beff168"
+    },
+    "index.html": {
+      "bytes": 5484,
+      "sha256": "efa1c67aad0c5f1e2de15ddfb2be788d8744d5e05bfaae2ccba831de4938996a"
+    },
+    "iteration.css": {
+      "bytes": 8384,
+      "sha256": "bf263649577f79ea63b8b2135cf7f84f0fd65c1404baee2e57785e628d1ff984"
+    },
+    "presentation.js": {
+      "bytes": 7474,
+      "sha256": "82573eeba1824af3b2a0f96db06b298c748af4d2cc78f572408e26124348da47"
+    },
+    "reference-reports.json": {
+      "bytes": 1444,
+      "sha256": "e33365201ed23aa183757d0a583c91e5f3edcf3b52206f4eea995b081696fa97"
+    },
+    "revision.css": {
+      "bytes": 8918,
+      "sha256": "4c0adf34001c1e41a6795c0401d56668de7b619a26f9865d33d8dd98470c9e40"
+    },
+    "revision.js": {
+      "bytes": 7702,
+      "sha256": "87272e39c985aa16b64c508c6e52603922bca7a9b9ebad5135903ea8fbc76883"
+    },
+    "style.css": {
+      "bytes": 14722,
+      "sha256": "cbe7a892788c16be31d516533019733156b5acb9f660cc94739f68b36365eb5b"
+    },
+    "version.json": {
+      "bytes": 2789,
+      "sha256": "228aa6eaa322d85fbe3d5c26c3fdfaf6f130af9d6bedf9f58cd6f88a5e8bc8e7"
+    },
+    "assets/01-laptop-notes.jpg": {
+      "bytes": 136894,
+      "sha256": "3f0830925305247caad1311fc3354bc1c214de150d268effa23534bdd2b3c682"
+    },
+    "assets/04-empty-room.jpg": {
+      "bytes": 232694,
+      "sha256": "54220927274beb5af3454f27751964c45266788e9bdeb5dcb2feba3f69d90353"
+    },
+    "assets/06-document-desk.jpg": {
+      "bytes": 308421,
+      "sha256": "bc7cdea78a1dad67e8a55fb3b572d1a5bb9fbc7df58ee0f615539479d85abec6"
+    },
+    "assets/attitude.svg": {
+      "bytes": 7813,
+      "sha256": "fce2f54015a82d45d961b03817c218baeb14d66b5b624c4ac925e360522c5735"
+    },
+    "assets/cover-final.png": {
+      "bytes": 2925621,
+      "sha256": "0ef1018c05406827524e7f8df0339619fcbd5c62fbc68cd016d743cba79b9286"
+    },
+    "assets/cover-poster.png": {
+      "bytes": 2105439,
+      "sha256": "79ba97eedbcbf511e2cbf80160a2222d54571122ea41f265a459ee1e97c1d5fd"
+    },
+    "assets/echarts.js": {
+      "bytes": 1117984,
+      "sha256": "5b05a8b44559f756b2c40f1ef3d67095562d28cb4f5d24891b3a919cc65109da"
+    },
+    "assets/exam-data.svg": {
+      "bytes": 296283,
+      "sha256": "d954c6c6b329f058bad4b14906ec59d58d593cb1e9b7b2faaebb44514314a536"
+    },
+    "assets/exam-option-0.svg": {
+      "bytes": 90029,
+      "sha256": "de690d10fbbe53d4286035f393720559506e31de4ef52d4ed098d711d7211141"
+    },
+    "assets/exam-option-1.svg": {
+      "bytes": 90029,
+      "sha256": "2822bce1b1b53d7761f9ca7805e74d453a65a8c22a49ae2fecf7c87ecb8f638f"
+    },
+    "assets/exam-option-2.svg": {
+      "bytes": 90029,
+      "sha256": "f5e0fe65923881138ce4b35c5dfbfe2e8071a57ed740246108fdb241ee86063c"
+    },
+    "assets/exam-option-3.svg": {
+      "bytes": 90029,
+      "sha256": "517fdeabe82908cf5348b4c6eba565a9344a24a321ccbac71ef8d2a13cabacec"
+    },
+    "assets/exam-page100.png": {
+      "bytes": 222076,
+      "sha256": "620e4042baeb7686f87e20ec414f7a3f3a4abf5508e4c6965270a07c481f93e4"
+    },
+    "assets/exam-pattern.svg": {
+      "bytes": 90027,
+      "sha256": "7bf291c1a1010575d9d6a84eddbed451915370d07567bb40768c2de1a25ab4ea"
+    },
+    "assets/figure-question.png": {
+      "bytes": 67389,
+      "sha256": "0db76fe0918db7d0e479b60219e4efbe0e30dfd1ac29d0f9f070fc27169671f6"
+    },
+    "assets/g06-original.png": {
+      "bytes": 105876,
+      "sha256": "221146930c19d6442b91ea659f32f6ff0957e5657328ad977c72ad1426af6dd1"
+    },
+    "assets/inbox.jpg": {
+      "bytes": 51997,
+      "sha256": "9bb90b11629578990051d103cc0eacc7d2d58e9b55214a0fcc5555cb7f039de3"
+    },
+    "assets/opening-background.png": {
+      "bytes": 2602663,
+      "sha256": "958eef570b0605119fb307e98a79d536d11010174f48acce1a4655391637efd0"
+    },
+    "assets/illustrations/O01.png": {
+      "bytes": 2383403,
+      "sha256": "fe8bbcc49e9d799aad696cfc09efb01cebfcaa7cca166656ce1da08e30d2aec6"
+    },
+    "assets/illustrations/O02.png": {
+      "bytes": 1692018,
+      "sha256": "6cc08c6bffca5b955ee02a114ffa73da4dc8301031b148e36739e9d4683a31d4"
+    },
+    "assets/illustrations/O03.png": {
+      "bytes": 1606579,
+      "sha256": "0afb003c9dbef890732db2fdc710da9d74b0d504e0dc5e9f75c4befec0f99286"
+    },
+    "assets/illustrations/O04.png": {
+      "bytes": 1457769,
+      "sha256": "fa97a252b020e5677c6d5ed9b12fedf7a1d38c20721ac4f0647ae63ea63dabe5"
+    },
+    "assets/illustrations/O05.png": {
+      "bytes": 1672452,
+      "sha256": "9e88f26306adc62ffb03437cbcc132b6348b168117e4f0b74fb45760abd6cc08"
+    },
+    "assets/illustrations/O06.png": {
+      "bytes": 1912475,
+      "sha256": "40260f5d210377dbc3282b5088789b6b937046058391fd0acd524c88756ac5b5"
+    },
+    "assets/illustrations/O07.png": {
+      "bytes": 2025021,
+      "sha256": "5d1a7a81701f852ecf3f4885378222f41342508b2bac2fe0d9059ad09f143452"
+    },
+    "assets/illustrations/P01.png": {
+      "bytes": 2092290,
+      "sha256": "c4bb15a341070403b49a9d1e2723691e65a675a5612dcc1fc521a031d512ada4"
+    },
+    "assets/illustrations/P02.png": {
+      "bytes": 2267053,
+      "sha256": "a0801a684fafd68da757a40cb06b71b90ed873b842037ca9b4004ec7c5dbdc85"
+    },
+    "assets/illustrations/P03.png": {
+      "bytes": 1669245,
+      "sha256": "9e9f66adc053c629c8743d749f0bfe18c9da4ea1dbcf1b6a5f99d2f055aeab72"
+    },
+    "assets/illustrations/P04.png": {
+      "bytes": 2056253,
+      "sha256": "3720f0847bdbb49eda03a60709202e59523438a4fa0c299202cb8174869e2840"
+    },
+    "assets/illustrations/P05.png": {
+      "bytes": 2151983,
+      "sha256": "b456b52b538b10557abd82f11c0e6b6f0d0d6dca9b66b34085db61eb8ff56f98"
+    },
+    "assets/illustrations/P06.png": {
+      "bytes": 1756069,
+      "sha256": "8188119879b7fa71324dec69b1c1e8183052df94693b8aceced83dad96790f4c"
+    },
+    "assets/illustrations/P07-complete.png": {
+      "bytes": 1153648,
+      "sha256": "56a5885978a13e666ad773d45f0c708a92f8976e6b4e1674d25d58b20839f1b7"
+    },
+    "assets/illustrations/P07.png": {
+      "bytes": 1453735,
+      "sha256": "8e8b87ad4563e72fc42a45e718fb8c67516f581a419f6293696e78c88cf643b3"
+    },
+    "assets/reports/2010.pdf": {
+      "bytes": 557328,
+      "sha256": "03397c7dd36d37a3d5ee99cd1a3d996f87f60c8922cdac4631faae674fd10f11"
+    },
+    "assets/reports/2023.pdf": {
+      "bytes": 10136354,
+      "sha256": "df3e68e1dedd43030c638cf11751a24b67c08586bdace6f145d9f98f1018af8d"
+    },
+    "assets/reports/2024alt.pdf": {
+      "bytes": 2878607,
+      "sha256": "114dc3514d3d9a431c39e21f1be10a7757acd5066d4c49a44eaedd850827dcaa"
+    },
+    "assets/reports/mettl.pdf": {
+      "bytes": 2634654,
+      "sha256": "70f537039ac48e7500a3e159cd0b6cc56c14772c10984ece4ca177df756ee1d0"
+    }
+  },
+  "all_source_bytes_preserved": true,
+  "total_bytes": 55229857
+}
