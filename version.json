@@ -1,8 +1,8 @@
 {
-  "version": "20261030-approved-revision-3002b",
+  "version": "20261030-approved-revision-3002c",
   "scope": "desktop-local",
   "source": "20261029_二次迭代/网页实施版",
-  "status": "3002b-verified-local",
+  "status": "3002c-local-verified",
   "changes": [
     "1030九项修改及两项新增动效",
     "标题字号1.3倍",
@@ -20,7 +20,7 @@
     "统一最新版打开入口及资源版本标记",
     "补全结尾人物插图中的纸张边缘，保留透明背景和原图"
   ],
-  "copy_status": "用户修改版DOC原文保持不变；正文选择性标红；态度词云采用用户选定A版",
+  "copy_status": "按本轮用户要求删除一段校招流程过渡正文，其余定稿文字保持；保留原有标红及A版词云",
   "followup_qa": {
     "sizes": [
       [
@@ -44,7 +44,8 @@
     "正文按内容区块统一渐显，图表标题主图备注统一入场",
     "渐显起点为屏幕高度80%，文字渐显0.7秒",
     "提交后1秒进入正文，邀请页和试卷页增加跳过测评",
-    "结尾文字与插图独占一个屏幕，参考报告从下一屏开始"
+    "结尾文字与插图独占一个屏幕，参考报告从下一屏开始",
+    "删除用户指定的校招流程总述过渡段，保留相邻标题、正文及人物"
   ],
   "verification": {
     "sizes": [
@@ -58,15 +59,15 @@
       ]
     ],
     "all_passed": true,
-    "narrative_blocks": 68,
+    "narrative_blocks": 67,
     "note_replacements": 6,
     "removed_subtitles": 12,
     "source_doc_sha256": "e22cef828f74e7bc8445d3f2c3228afbc230188f290cdc021fc9808ac23f5caf",
-    "report": "../.核验工作/1030_3002b_动画与跳过/最终核验.json",
-    "browser_report": "../.核验工作/1030_3002b_动画与跳过/浏览器核验.json",
+    "report": "../.核验工作/GitHub_3002c_删除过渡段/最终核验.json",
+    "browser_report": "../.核验工作/GitHub_3002c_删除过渡段/本地浏览器核验.json",
     "wordcloud_preview": "../2026103002_词云预览/打开词云预览.html",
     "publicly_deployed": false,
-    "previous_report": "../.核验工作/1030_A版与正文标红/最终核验.json",
+    "previous_report": "../.核验工作/1030_3002b_动画与跳过/最终核验.json",
     "selected_wordcloud": "A",
     "group_reveal_ms": 700,
     "reading_boundary": 0.8,

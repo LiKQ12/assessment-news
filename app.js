@@ -280,7 +280,7 @@ function balanceVisibleText(){
  }
 }
 
-const characterSpecs=[{id:'13',asset:'P03',side:'left',width:312},{id:'57',asset:'P05',side:'left',width:276},{id:'65',asset:'P02',side:'right',width:432},{id:'80',asset:'P04',side:'right',width:408},{id:'94',asset:'P06',side:'right',width:264}];
+const characterSpecs=[{id:'16',asset:'P03',side:'left',width:312},{id:'57',asset:'P05',side:'left',width:276},{id:'65',asset:'P02',side:'right',width:432},{id:'80',asset:'P04',side:'right',width:408},{id:'94',asset:'P06',side:'right',width:264}];
 for(const child of [...$('#story').children]){
  if(child.matches('.chart-section,#ending'))continue;
  let wrap=child.previousElementSibling;

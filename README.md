@@ -1,6 +1,6 @@
 # 还没见到面试官，先要回答多少题？
 
-招聘测评数据新闻，正式版本：20261030-approved-revision-3002b。
+招聘测评数据新闻，正式版本：20261030-approved-revision-3002c。
 
 网站：https://likq12.github.io/assessment-news/
 

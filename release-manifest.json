@@ -1,15 +1,15 @@
 {
-  "version": "20261030-approved-revision-3002b",
+  "version": "20261030-approved-revision-3002c",
   "repository": "LiKQ12/assessment-news",
   "site_url": "https://likq12.github.io/assessment-news/",
   "runtime_files": {
     "app.js": {
       "bytes": 48179,
-      "sha256": "384165ddcc50098be5b9a9aaef21c819a57de0308a67a094c89ce89f734e3ff2"
+      "sha256": "d5a535eece45ab5ecbc0a77a06d58cb2a748d6a310684db276c7bd3fe9b61b98"
     },
     "approved-copy.js": {
-      "bytes": 14310,
-      "sha256": "bc6e40416b16ebb11008edc678612df531d65e51c76610d568b917d8da4054ac"
+      "bytes": 14054,
+      "sha256": "2fe8bb9a33f9d712134a65eae46089f42f0f9cb3cced5e2e570ee4ea9fdd7d36"
     },
     "chart-prototypes.js": {
       "bytes": 394473,
@@ -21,7 +21,7 @@
     },
     "index.html": {
       "bytes": 5484,
-      "sha256": "efa1c67aad0c5f1e2de15ddfb2be788d8744d5e05bfaae2ccba831de4938996a"
+      "sha256": "b89f71be248121d888c7939f15f940a379861ca54192ce2d58c48ccf9522fb97"
     },
     "iteration.css": {
       "bytes": 8384,
@@ -48,8 +48,8 @@
       "sha256": "cbe7a892788c16be31d516533019733156b5acb9f660cc94739f68b36365eb5b"
     },
     "version.json": {
-      "bytes": 2789,
-      "sha256": "228aa6eaa322d85fbe3d5c26c3fdfaf6f130af9d6bedf9f58cd6f88a5e8bc8e7"
+      "bytes": 2918,
+      "sha256": "4c02d686f81fb8ed93d5b5759b479a078d466d9505209ea08aff562a4d03e1f4"
     },
     "assets/01-laptop-notes.jpg": {
       "bytes": 136894,
@@ -201,5 +201,5 @@
     }
   },
   "all_source_bytes_preserved": true,
-  "total_bytes": 55229857
+  "total_bytes": 55229730
 }
